@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Olá, me chamo Raine seja bem vindo(a) ao meu perfil !
+# 👩🏽‍💻 Olá, me chamo Raine seja bem vindo(a) ao meu perfil!
 
 <img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/856067d0-8db8-4cbe-87f0-83bbdfed34fe" />
 
