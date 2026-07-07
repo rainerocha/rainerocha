@@ -1,8 +1,6 @@
 ## Olá ! Me chamo Raine, bem vindo(a) ao meu perfil 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rainerocha&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rainerocha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rainerocha)](https://github.com/stats-organization/github-stats-extended)
 
 # 💻 Linguagens:
