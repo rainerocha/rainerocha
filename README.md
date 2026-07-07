@@ -3,7 +3,7 @@
 <img width="450" height="450" alt="giphy" src="https://github.com/user-attachments/assets/856067d0-8db8-4cbe-87f0-83bbdfed34fe" />
 
 # 💫 About Me:
-🔭 Atualmente estou trabalhando em um projeto pessoal: Um sistema de gestão industrial<br>👯 Estou procurando oportunidades de colaboração em projetos voluntários ou similares<br>💼 Estou disponível para vagas de estágio presenciais, híbridas ou remotas<br>🌱 Atualmente estou aprendendo Java e Spring Boot<br> 👩🏿‍💻 Estou no 4° semestre em Análise e Desenvolvimento de Sistemas
+🔭 Atualmente estou trabalhando em um projeto pessoal: Um sistema de gestão industrial<br>👯 Estou procurando oportunidades de colaboração em projetos voluntários ou similares<br>💼 Estou disponível para vagas de estágio presenciais, híbridas ou remotas<br>🌱 Atualmente estou aprendendo Java e Spring Boot<br> 👩🏽‍💻 Estou no 4° semestre em Análise e Desenvolvimento de Sistemas
 
 
 ## 🌐 Se conecte comigo :
